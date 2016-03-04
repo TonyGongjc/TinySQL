@@ -7,6 +7,7 @@ Implemented by Andy Chen
 Implemented by Leo Zou
 
 javac Test.java
+
 java Test TinySQL_linux.txt
 
 This program is compiled by java 1.7.0
